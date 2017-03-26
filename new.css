@@ -1,0 +1,199 @@
+<meta charset="UTF-8">
+body {
+font-family: Georgia, "Times New Roman",
+        Times, serif;
+color: LightSkyBlue;
+}
+ul.change {
+  list-style-type: none;
+  padding:0px;
+  margin:0px;
+  position: absolute;
+  top: 100;	
+  left: 0em;
+  width: 8em;
+  font-size:2em;}
+  
+h1 {
+	color: LightSkyBlue;
+  font-family: Helvetica, Geneva, Arial,
+SunSans-Regular, sans-serif;
+position:absolute;
+font-size:3em;
+left:6%;
+top:-1%;}
+
+h5 {
+	color: LightSkyBlue;
+  font-family: Helvetica, Geneva, Arial,
+SunSans-Regular, sans-serif;
+position:absolute;
+font-size:1.3em;
+left:45%;
+top:-5.5%;}
+
+div.top {
+border:1px solid #000;
+background-color:Darkblue;
+height:100px;
+line-height:110px;}
+
+div.hp {
+width:10%;
+float:right;
+border:0px solid #000;
+height:30px;
+line-height:170px;
+font-size:2em;
+}
+
+div.pi {
+width:20%;
+float:right;
+border:0px solid #000;
+height:30px;
+line-height:170px;
+font-size:2em;}
+
+div.mh {
+width:15%;
+float:right;
+border:0px solid #000;
+height:30px;
+line-height:170px;
+font-size:2em;}
+
+div.container {
+border:0px solid #000;
+background-color:#ffe;
+text-align:center;
+height:100%;}
+
+div.containers {
+width:100%;
+border:1px solid #000;
+height:900px;
+font-size:4em;
+color:DarkBlue;
+text-align:center;
+background-color:Snow  ;}
+
+div.left1 {
+float:right;
+width:88%;
+border:1px solid #000;
+height:900px;
+font-size:2em;
+background-color:Azure;
+padding-left:20px;}
+
+div.left2 {
+float:right;
+width:88%;
+border:1px solid #000;
+height:900px;
+line-height:60px;
+font-size:3em;
+background-color:Azure;
+padding-left:20px;}
+
+div.left3 {
+float:right;
+width:88%;
+border:1px solid #000;
+height:900px;
+line-height:60px;
+font-size:2em;
+background-color:Azure;
+padding-left:20px;}
+
+div.left4 {
+float:right;
+width:88%;
+border:1px solid #000;
+height:900px;
+line-height:60px;
+font-size:4em;
+background-color:Azure;
+padding-left:20px;}
+
+div.right {
+width:12%;
+border:0px solid #000;
+height:900px;
+background-color:Darkblue;}
+
+ul.change li {
+  background: none;
+  margin: 	1em 0;
+  padding: 1em;
+  width:3em;
+  height:1em;
+  border-left: 0em solid black }
+  
+ul.change a {
+  text-decoration: none  }
+a:link {
+  color:  Red}
+a:visited {
+  color: LightSkyBlue }
+ 
+table {
+border:none;
+padding:"0";
+font-size:28px; 
+width:100%; 
+height:600px;
+border-collapse:collapse;
+}
+td {border:solid #000 1px;
+text-align:center;}
+
+#bg { width:100%;} 
+#be {border:1;
+width:15%; 
+height:26%;
+position:absolute;
+left:83%;
+top:140%;}
+#double {border:1;
+width:15%; 
+height:26%;
+position:absolute;
+left:66%;
+top:110%;}
+#hp {border:1;
+width:15%; 
+height:26%;
+position:absolute;
+left:66%;
+top:140%;}
+#ha {border:1;
+width:15%; 
+height:26%;
+position:absolute;
+left:83%;
+top:110%;}
+#pi {border:0; 
+width:25% ;
+height:40%;
+position:absolute;
+left:14%;}
+#mh {border:0; 
+width:25% ;
+height:40%;
+position:absolute;
+left:63%;}
+  
+div.address {
+border:1px solid #000;
+background-color:Darkblue;
+height:150px;
+font-size:1.3em;
+color:LightSkyBlue;
+padding-left:20px;
+}
+
+
+
+  
