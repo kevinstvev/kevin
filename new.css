@@ -78,6 +78,19 @@ color:DarkBlue;
 text-align:center;
 background-color:Snow  ;}
 
+div.wechat2 {
+height:40%;
+width:25%;
+position:relative;
+left:20%;}
+
+div.wechat3 {
+height:40%;
+width:25%;
+position:relative;
+top:-40%;
+left:50%;}
+
 div.left1 {
 float:right;
 width:88%;
@@ -175,15 +188,11 @@ position:absolute;
 left:83%;
 top:110%;}
 #pi {border:0; 
-width:25% ;
-height:40%;
-position:absolute;
-left:14%;}
+width:100%;
+height:100%;}
 #mh {border:0; 
-width:25% ;
-height:40%;
-position:absolute;
-left:63%;}
+width:100%;
+height:100%;}
   
 div.address {
 border:1px solid #000;
